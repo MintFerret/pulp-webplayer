@@ -15,6 +15,4 @@ This repo contains all of the code (that's publicly available) for the Web Playe
 
 Credits goes to [Shaun Inman](https://devforum.play.date/u/shaun/) and the [Pulp team](https://play.date/pulp/team/)
 
-[©Panic](https://panic.com/)
-
 Playdate is a registered trademark of Panic
